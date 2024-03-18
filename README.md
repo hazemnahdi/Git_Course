@@ -1,4 +1,4 @@
 # Git_Course
 
-##notes
+## notes
 formation github
